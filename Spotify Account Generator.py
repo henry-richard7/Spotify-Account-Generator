@@ -41,7 +41,6 @@ def generateSpotifyAccount():
 
     result = requests.post(url, headers=headers, data=post_data).json()
     if result['status'] == 1:
-        print(f"Email: {emails} Password: {passwords} to verify Account go to https://emailfake.com/henry-mail.ml/{email}")
         window['EMAIL_PASS_COMBO'].print(f"{emails}:{passwords}")
         window["Verification_Email"].print(f"https://emailfake.com/henry-mail.ml/{email}")
     else:
