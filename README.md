@@ -7,6 +7,11 @@ Spotify Account Generator Using Python
 * PySimpleGUI
 * faker
 
+# New Updates
+* Added Multi-threading.
+* Added auto verification of generated spotify accounts (Selenium headless using EDGE browser). Thanks to Vejas04 for motivating me !
+* Auto Save generated spotify accounts.
+
 # Screenshot
 ![image](https://user-images.githubusercontent.com/68910039/90510054-26cdc500-e10f-11ea-97c3-dc254b660c88.png)
 
