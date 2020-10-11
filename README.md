@@ -7,6 +7,7 @@ Spotify Account Generator Using Python
 * PySimpleGUI
 * faker
 * msedge-selenium-tools selenium==3.141
+* cfscrape
 
 # New Updates
 * Added Multi-threading.
