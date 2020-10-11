@@ -13,7 +13,7 @@ Spotify Account Generator Using Python
 * Auto Save generated spotify accounts.
 
 # Screenshot
-![image](https://user-images.githubusercontent.com/68910039/90510054-26cdc500-e10f-11ea-97c3-dc254b660c88.png)
+![Spotify Account Creator Bot V2](https://user-images.githubusercontent.com/68910039/95672729-e21b5300-0bc0-11eb-9c73-d8bed0a9618d.png)
 
 # Copyrights © [Henry Richard J](https://github.com/henry-richard7)
 
