@@ -11,7 +11,7 @@ Spotify Account Generator Using Python
 
 # New Updates
 * Added Multi-threading.
-* Added auto verification of generated spotify accounts (Selenium headless using EDGE browser). Thanks to Vejas04 for motivating me !
+* Added auto verification of generated spotify accounts (Selenium headless using EDGE browser).
 * Auto Save generated spotify accounts.
 
 # Screenshot
