@@ -14,6 +14,14 @@ Spotify Account Generator Using Python
 * Added auto verification of generated spotify accounts (Selenium headless using EDGE browser).(Beta sometimes may not work.)
 * Auto Save generated spotify accounts.
 
+# My Youtube Channel
+[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+# My Telegram Channel
+[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
+
 # Screenshot
 ![Spotify Account Creator Bot V2](https://user-images.githubusercontent.com/68910039/95672729-e21b5300-0bc0-11eb-9c73-d8bed0a9618d.png)
 
