@@ -1,0 +1,4 @@
+exrex
+requests
+PySimpleGUI
+faker
