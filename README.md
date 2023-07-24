@@ -33,12 +33,4 @@ Spotify Account Generator Using Python
 
 ![Spotify Account Creator Bot V3](https://user-images.githubusercontent.com/68910039/153369621-f859f71c-38ef-44c5-9554-6ed9827fb9df.png)
 
-# Copyrights © [Henry Richard J](https://github.com/henry-richard7)
-
-### Donations (Optional) 💵
-
-If you like my projects then consider making a small donation by clicking below button ^\_^
-<br/>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
-
 #### Star the Repo in case you liked it :)
